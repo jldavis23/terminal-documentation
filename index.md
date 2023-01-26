@@ -6,6 +6,9 @@ The terminal is an interface that allows you to interact with programs on your c
 - cd allows you to change directories. I often use this when I'm choosing a file to initialize as a git repo or if I want to see the directory's contents.
 - ls lists all the files in the current directory. It is super useful to see what you have stored in a certain directory.
 - man allows you to view the manual for a certain command. For example, I could run man ls and it will bring up the manual to explain what that command does and how to use it. It's helpful for when you don't remember exactly what a command does or what its arguments are.
+
+![](man_ls.png)
+
 - mkdir is a command to create a directory. Directories are important because they organize and house your various files.
 - The touch command allows you to create a new file. This is a good one to know because files are the main thing you're working with in web development.
 
